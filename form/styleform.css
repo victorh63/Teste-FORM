@@ -1,0 +1,57 @@
+#escolhecidade {
+    color: brown;
+    font-size: 20px;
+}
+#escolhecor {
+    color: coral;
+    font-size: 20px;
+}
+#escolheinstrumento {
+    color: chocolate;
+    font-size: 20px;
+}
+#titulotexto {
+    color: darkorange;
+    font-size: 35px
+}
+#digitenome {
+    color: darkgoldenrod;
+    font-size: 20px;
+}
+#digitemsg {
+    color: gold;
+    font-size: 20px;
+}
+#cidade {
+    color: orangered;
+    font-size: 15px;
+}
+#instrumentos {
+    color: peru;
+    font-size: 15px;
+}
+#cores {
+    color: peru;
+    font-size: 15px;
+}
+#reset {
+    color: #DDAC0C;
+    font-size: 15px;
+}
+#enviar {
+    color: #AD870A;
+    font-size: 15px;
+}
+#contrato {
+    color:#DCBA4B ;
+    font-size: 15px;
+}
+.all {
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    text-align: center;
+}
